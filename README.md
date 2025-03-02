@@ -3,5 +3,5 @@
 
 ## 🗺️ GIS Specialist | UBC MGEM Student
 - 🔭 Current project: Land-use dynamics in Cable Bay, BC
-- 🌱 Skills: Python | ArcGIS | Remote Sensing
+- 🌱 Skills: Python | ArcGIS PRO | Remote Sensing | R | ENVI |
 - 📫 How to reach me: yanicezeng28@gmail.com
